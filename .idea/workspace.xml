@@ -4,11 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1414cab4-5420-4048-88b8-519aabfe63ca" name="Changes" comment="" />
+    <list default="true" id="1414cab4-5420-4048-88b8-519aabfe63ca" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/controllers/AuthController2.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controllers/PostController.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controllers/UserController2.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data-source.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entity/Post.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entity/User.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/middleware/auth.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/api2.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/post.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/PostService.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/UserService.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/type/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -26,15 +45,18 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Node.js.test.js.executor&quot;: &quot;Run&quot;,
     &quot;Node.js.user.js.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;last_opened_file_path&quot;: &quot;D:/Node/node_2024&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2023.3.4\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -42,6 +64,16 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Node\node_2024\src" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/test.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.test.js" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -64,6 +96,13 @@
       <workItem from="1709773726941" duration="7624000" />
       <workItem from="1709785916165" duration="208000" />
       <workItem from="1709800043839" duration="573000" />
+      <workItem from="1709802114446" duration="3711000" />
+      <workItem from="1709860704898" duration="5128000" />
+      <workItem from="1710063559493" duration="2821000" />
+      <workItem from="1710119162997" duration="5785000" />
+      <workItem from="1710141400220" duration="578000" />
+      <workItem from="1710142222796" duration="11340000" />
+      <workItem from="1710213719936" duration="880000" />
     </task>
     <servers />
   </component>
